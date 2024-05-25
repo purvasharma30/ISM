@@ -11,8 +11,3 @@ VIT VELLORE
 
 
 
-
-## Demo
-
-
-
